@@ -1,0 +1,26 @@
+{
+	"variations": {
+		"default": {
+			"choices": [
+				{
+					"source": "Particles.png",
+					"rect": [
+						16.0,
+						0.0,
+						8.0,
+						8.0
+					]
+				},
+				{
+					"source": "Particles.png",
+					"rect": [
+						24.0,
+						0.0,
+						8.0,
+						8.0
+					]
+				}
+			]
+		}
+	}
+}

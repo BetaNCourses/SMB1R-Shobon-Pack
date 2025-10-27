@@ -1,0 +1,7 @@
+{
+	"variations":
+	{
+		"default": {"source": "Leaves.png", "rect": [0, 0, 16, 8]},
+		"Autumn": {"source": "Leaves.png", "rect": [0, 8, 16, 8]}
+	}
+}

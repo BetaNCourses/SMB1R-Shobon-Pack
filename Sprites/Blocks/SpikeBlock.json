@@ -1,0 +1,25 @@
+{
+	"animations": {
+		"default": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					16.0
+				],
+				[
+					16.0,
+					0.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {"source": "Blocks.png", "rect": [96, 96, 32, 16]},
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"properties": {
+		"play_sfx": false
+	},
+	"variations": {
+		"default": {
+			"source": "Items.png",
+			"rect": [192, 64, 16, 16]
+		}
+	}
+}

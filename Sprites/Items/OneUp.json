@@ -1,0 +1,15 @@
+{
+	"variations": {
+		"default": {
+			"SMB1": {
+				"source": "Items.png",
+				"rect": [64, 0, 16, 16]
+			},
+			"SMBLL": {
+				"source": "Items.png",
+				"rect": [80, 0, 16, 16]
+			},
+			"SMBANN": {"link": "SMBLL"}
+		}
+	}
+}

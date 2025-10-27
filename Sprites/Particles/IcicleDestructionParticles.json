@@ -1,0 +1,15 @@
+{
+	"variations": {
+		"choices": [
+			{"source": "Particles.png", "rect": [16, 48, 8, 8]},
+			{"source": "Particles.png", "rect": [24, 48, 8, 8]},
+			{"source": "Particles.png", "rect": [24, 56, 8, 8]},
+			{"source": "Particles.png", "rect": [16, 56, 8, 8]},
+			
+			{"source": "Particles.png", "rect": [32, 48, 8, 8]},
+			{"source": "Particles.png", "rect": [40, 56, 8, 8]},
+			{"source": "Particles.png", "rect": [32, 56, 8, 8]},
+			{"source": "Particles.png", "rect": [40, 48, 8, 8]},
+		]
+	}
+}

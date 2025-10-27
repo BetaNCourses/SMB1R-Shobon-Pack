@@ -1,0 +1,14 @@
+{
+	"variations": {
+		"SMB1": {
+			"default": {
+				"source": "NULL",
+			}
+		},
+		"SMBANN": {
+			"default": {
+				"source": "NULL",
+			}
+		}
+	}
+}

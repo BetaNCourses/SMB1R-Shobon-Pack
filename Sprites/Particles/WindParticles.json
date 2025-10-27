@@ -1,0 +1,12 @@
+{
+	"variations": {
+		"default": {"source": "Leaves.png", "rect": [0, 0, 16, 8]},
+		"Autumn": {"source": "Leaves.png", "rect": [0, 8, 16, 8]},
+		"Desert": {"source": "Particles.png", "rect": [0, 16, 16, 8]},
+		"Snow": {"source": "Particles.png", "rect": [0, 40, 16, 8]},
+		"Underwater": {"source": "Particles.png", "rect": [0, 48, 16, 8]},
+		"CastleWater": {"link": "Underwater"},
+		"Castle": {"source": "Particles.png", "rect": [0, 32, 16, 8]},
+		"Volcano": {"link": "Castle"}
+	}
+}
