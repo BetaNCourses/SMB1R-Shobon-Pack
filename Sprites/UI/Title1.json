@@ -1,7 +1,7 @@
 {
 	"variations": {
 		"SMB1": {
-			"default": {"source": "TitleSMB1.png", "rect": [0, 0, 176, 88], "properties": {"star_offset_x": -44, "star_offset_y": 52}},
+			"default": {"source": "TitleSMB1.png", "rect": [0, 0, 176, 88], "properties": {"star_offset_x": -44, "star_offset_y": 43}},
 			"Desert": {"link": "default"},
 			"Jungle": {"link": "default"},
 			"Snow": {"link": "default"},
