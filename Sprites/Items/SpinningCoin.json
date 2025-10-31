@@ -32,6 +32,14 @@
 		}
 	},
 	"variations": {
-		"default": {"source": "Items.png", "rect": [0, 32, 64, 16]},
+		"default": {
+			"source": "SpinningCoin.png",
+			"rect": [
+				0.0,
+				0.0,
+				64.0,
+				16.0
+			]
+		}
 	}
 }

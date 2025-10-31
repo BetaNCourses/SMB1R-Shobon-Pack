@@ -3,43 +3,44 @@
 		"default": {
 			"frames": [
 				[
-					0,
-					0,
-					16,
-					16
+					0.0,
+					0.0,
+					16.0,
+					16.0
 				],
 				[
-					16,
-					0,
-					16,
-					16
+					16.0,
+					0.0,
+					16.0,
+					16.0
 				],
 				[
-					32,
-					0,
-					16,
-					16
+					32.0,
+					0.0,
+					16.0,
+					16.0
 				],
 				[
-					48,
-					0,
-					16,
-					16
+					48.0,
+					0.0,
+					16.0,
+					16.0
 				]
 			],
-			"speed": 15,
+			"speed": 15.0,
 			"loop": true
 		}
 	},
 	"variations": {
 		"default": {
-			"source": "Items.png",
-			"rect": [
-				96,
-				0,
-				64,
-				16
-			]
+			"config:RetroItems": {
+				"On": {"source": "FireFlowerRetro.png"},
+				"Off": {"source": "FireFlower.png"}
+			},
+			"SMB1": {"source": "FireFlower.png", "rect": [0.0,0.0,64.0,16.0]},
+			"SMBLL": {"link": "SMB1"},
+			"SMBANN": {"link": "SMB1"},
+			"SMBS": {"source": "FireFlowerSpecial.png", "rect": [0.0,0.0,64.0,16.0]}
 		}
 	}
 }

@@ -7,8 +7,11 @@
 		}
 	},
 	"variations": {
-		"default": {"source": "Items.png",
-					"rect": [128, 64, 16, 16]
+		"default": {
+			"config:OGfireballs": {
+				"On": {"source": "FireballOG.png"},
+				"Off": {"source": "Fireball.png"}
+			}
 		}
 	}
 }

@@ -8,12 +8,16 @@
 	},
 	"variations": {
 		"default": {
+			"config:RetroItems": {
+				"On": {"source": "SuperMushroomRetro.png"},
+				"Off": {"source": "SuperMushroom.png"}
+			},
 			"SMB1": {
-				"source": "Items.png",
+				"source": "SuperMushroom.png",
 				"rect": [0, 0, 16, 16]
 			},
 			"SMBLL": {
-				"source": "Items.png",
+				"source": "SuperMushroom.png",
 				"rect": [16, 0, 16, 16]
 			},
 			"SMBANN": {"link": "SMBLL"}

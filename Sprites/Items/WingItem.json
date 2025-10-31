@@ -7,6 +7,6 @@
 		}
 	},
 	"variations": {
-		"default": {"source": "Items.png", "rect": [144, 48, 16, 16]}
+		"default": {"source": "SPItems.png", "rect": [48, 0, 16, 16]}
 	}
 }
