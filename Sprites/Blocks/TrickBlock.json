@@ -17,6 +17,6 @@
 		}
 	},
 	"variations": {
-		"default": {"source": "Blocks.png", "rect": [256, 0, 64, 16]},
+		"default": {"source": "TrickBlock.png", "rect": [0, 0, 64, 16]}
 	}
 }

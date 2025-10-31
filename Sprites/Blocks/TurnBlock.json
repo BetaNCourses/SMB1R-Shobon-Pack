@@ -32,6 +32,6 @@
 		}
 	},
 	"variations": {
-		"default": {"source": "Blocks.png", "rect": [128, 0, 64, 16]},
+		"default": {"source": "TurnBlock.png", "rect": [0, 0, 64, 16]}
 	}
 }

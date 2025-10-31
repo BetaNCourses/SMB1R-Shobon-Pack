@@ -20,6 +20,6 @@
 		}
 	},
 	"variations": {
-		"default": {"source": "Blocks.png", "rect": [96, 96, 32, 16]},
+		"default": {"source": "SpikeBlock.png", "rect": [0, 0, 32, 16]}
 	}
 }
