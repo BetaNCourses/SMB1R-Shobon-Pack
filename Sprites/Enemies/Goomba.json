@@ -10,12 +10,6 @@
 					0.0,
 					16.0,
 					16.0
-				],
-				[
-					16.0,
-					0.0,
-					16.0,
-					16.0
 				]
 			],
 			"speed": 5.0,
@@ -24,7 +18,7 @@
 		"Stomped": {
 			"frames": [
 				[
-					32.0,
+					16.0,
 					0.0,
 					16.0,
 					16.0
@@ -55,52 +49,12 @@
 				]
 			}
 		},
-		"Underground": {
-			"SMB1": {
-				"source": "Goomba.png",
-				"rect": [
-					48.0,
-					0.0,
-					48.0,
-					16.0
-				]
-			},
-			"SMBANN": {
-				"source": "DiscoGoomba.png",
-				"rect": [
-					48.0,
-					0.0,
-					48.0,
-					16.0
-				]
-			}
-		},
-		"GhostHouse": {
-			"SMB1": {
-				"source": "Goomba.png",
-				"rect": [
-					48.0,
-					0.0,
-					48.0,
-					16.0
-				]
-			},
-			"SMBANN": {
-				"source": "DiscoGoomba.png",
-				"rect": [
-					48.0,
-					0.0,
-					48.0,
-					16.0
-				]
-			}
-		},
 		"Castle": {
 			"SMB1": {
 				"source": "Goomba.png",
 				"rect": [
-					96.0,
 					0.0,
+					16.0,
 					48.0,
 					16.0
 				]
@@ -109,26 +63,6 @@
 				"source": "DiscoGoomba.png",
 				"rect": [
 					96.0,
-					0.0,
-					48.0,
-					16.0
-				]
-			}
-		},
-		"Underwater": {
-			"SMB1": {
-				"source": "Goomba.png",
-				"rect": [
-					144.0,
-					0.0,
-					48.0,
-					16.0
-				]
-			},
-			"SMBANN": {
-				"source": "DiscoGoomba.png",
-				"rect": [
-					144.0,
 					0.0,
 					48.0,
 					16.0
@@ -139,8 +73,8 @@
 			"SMB1": {
 				"source": "Goomba.png",
 				"rect": [
-					144.0,
 					0.0,
+					16.0,
 					48.0,
 					16.0
 				]
@@ -160,7 +94,7 @@
 				"source": "Goomba.png",
 				"rect": [
 					0.0,
-					16.0,
+					32.0,
 					48.0,
 					16.0
 				]
@@ -175,32 +109,12 @@
 				]
 			}
 		},
-		"Jungle": {
-			"SMB1": {
-				"source": "Goomba.png",
-				"rect": [
-					48.0,
-					16.0,
-					48.0,
-					16.0
-				]
-			},
-			"SMBANN": {
-				"source": "DiscoGoomba.png",
-				"rect": [
-					48.0,
-					16.0,
-					48.0,
-					16.0
-				]
-			}
-		},
 		"Snow": {
 			"SMB1": {
 				"source": "Goomba.png",
 				"rect": [
-					96.0,
-					16.0,
+					0.0,
+					48.0,
 					48.0,
 					16.0
 				]
@@ -219,9 +133,9 @@
 			"SMB1": {
 				"source": "Goomba.png",
 				"rect": [
-					144.0,
-					16.0,
-					48.0,
+					0.0,
+					64.0,
+					64.0,
 					16.0
 				]
 			},
@@ -235,31 +149,11 @@
 				]
 			}
 		},
-		"Autumn": {
-			"SMB1": {
-				"source": "Goomba.png",
-				"rect": [
-					0.0,
-					32.0,
-					48.0,
-					16.0
-				]
-			},
-			"SMBANN": {
-				"source": "DiscoGoomba.png",
-				"rect": [
-					0.0,
-					32.0,
-					48.0,
-					16.0
-				]
-			}
-		},
 		"Beach": {
 			"SMB1": {
 				"source": "Goomba.png",
 				"rect": [
-					48.0,
+					0.0,
 					32.0,
 					48.0,
 					16.0
@@ -269,26 +163,6 @@
 				"source": "DiscoGoomba.png",
 				"rect": [
 					48.0,
-					32.0,
-					48.0,
-					16.0
-				]
-			}
-		},
-		"Mountain": {
-			"SMB1": {
-				"source": "Goomba.png",
-				"rect": [
-					96.0,
-					32.0,
-					48.0,
-					16.0
-				]
-			},
-			"SMBANN": {
-				"source": "DiscoGoomba.png",
-				"rect": [
-					96.0,
 					32.0,
 					48.0,
 					16.0
@@ -299,9 +173,9 @@
 			"SMB1": {
 				"source": "Goomba.png",
 				"rect": [
-					144.0,
-					32.0,
-					48.0,
+					0.0,
+					80.0,
+					80.0,
 					16.0
 				]
 			},
@@ -310,26 +184,6 @@
 				"rect": [
 					144.0,
 					32.0,
-					48.0,
-					16.0
-				]
-			}
-		},
-		"Bonus": {
-			"SMB1": {
-				"source": "Goomba.png",
-				"rect": [
-					0.0,
-					48.0,
-					48.0,
-					16.0
-				]
-			},
-			"SMBANN": {
-				"source": "DiscoGoomba.png",
-				"rect": [
-					0.0,
-					48.0,
 					48.0,
 					16.0
 				]
