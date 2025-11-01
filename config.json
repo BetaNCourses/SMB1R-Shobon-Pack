@@ -1,0 +1,16 @@
+{
+	"options": {
+		"RetroItems": "Off",
+		"OGfireballs": "Off"
+	},
+	"value_keys": {
+		"RetroItems": [
+			"On",
+			"Off"
+		],
+		"OGfireballs": [
+			"On",
+			"Off"
+		]
+	}
+}
