@@ -3,19 +3,19 @@
 		"default": {
 			"choices": [
 				{
-					"source": "Particles.png",
+					"source": "SpikeBallDestructionParticles.png",
 					"rect": [
-						32.0,
-						16.0,
+						0.0,
+						0.0,
 						8.0,
 						8.0
 					]
 				},
 				{
-					"source": "Particles.png",
+					"source": "SpikeBallDestructionParticles.png",
 					"rect": [
-						40.0,
-						16.0,
+						8.0,
+						0.0,
 						8.0,
 						8.0
 					]

@@ -13,6 +13,11 @@
 		}
 	},
 	"variations": {
-		"default": {"source": "Particles.png", "rect": [64, 48, 72, 18]}
+		"default": {
+			"config:OGfireballs": {
+				"On": {"source": "FireworkOG.png"},
+				"Off": {"source": "Firework.png"}
+			}
+		}
 	}
 }

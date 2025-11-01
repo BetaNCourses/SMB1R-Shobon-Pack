@@ -13,6 +13,11 @@
 		}
 	},
 	"variations": {
-		"default": {"source": "Particles.png", "rect": [64, 16, 72, 18]}
+		"default": {
+			"config:OGfireballs": {
+				"On": {"source": "FireballExplosionOG.png"},
+				"Off": {"source": "FireballExplosion.png"}
+			}
+		}
 	}
 }

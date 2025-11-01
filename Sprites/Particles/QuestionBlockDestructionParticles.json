@@ -1,5 +1,5 @@
 {
 	"variations": {
-		"default": {"source": "Particles.png", "rect": [16, 16, 16, 16]}
+		"default": {"source": "QuestionBlockDestructionParticles.png", "rect": [0, 0, 16, 16]}
 	}
 }
