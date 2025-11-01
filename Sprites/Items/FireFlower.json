@@ -33,10 +33,6 @@
 	},
 	"variations": {
 		"default": {
-			"config:RetroItems": {
-				"On": {"source": "FireFlowerRetro.png"},
-				"Off": {"source": "FireFlower.png"}
-			},
 			"SMB1": {"source": "FireFlower.png", "rect": [0.0,0.0,64.0,16.0]},
 			"SMBLL": {"link": "SMB1"},
 			"SMBANN": {"link": "SMB1"},

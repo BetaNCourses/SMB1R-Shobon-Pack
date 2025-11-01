@@ -39,10 +39,10 @@
 	},
 	"variations": {
 		"default": {
-			"source": "Items.png",
+			"source": "WrenchProjectile.png",
 			"rect": [
-				128.0,
-				80.0,
+				0.0,
+				0.0,
 				64.0,
 				16.0
 			]
