@@ -63,18 +63,18 @@
 	},
 	"variations": {
 		"default": {
-			"source": "KoopaTroopa.png",
+			"source": "Enemies.png",
 			"rect": [
-				128.0,
+				160.0,
 				64.0,
 				64.0,
 				32.0
 			]
 		},
 		"Snow": {
-			"source": "KoopaTroopa.png",
+			"source": "Enemies.png",
 			"rect": [
-				224.0,
+				240.0,
 				64.0,
 				64.0,
 				32.0

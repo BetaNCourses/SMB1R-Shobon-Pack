@@ -22,10 +22,10 @@
 	},
 	"variations": {
 		"SMB1": {
-			"default": {"source": "BridgeAxe.png", "rect": [0, 0, 48, 16]}
+			"default": {"source": "Items.png", "rect": [64, 112, 48, 16]},
 		},
 		"SMBANN": {
-			"default": {"source": "DiscoAxe.png", "rect": [0, 0, 48, 16]}
+			"default": {"source": "Items.png", "rect": [64, 48, 48, 16]},
 		}
 	}
 }

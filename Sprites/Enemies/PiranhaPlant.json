@@ -22,125 +22,19 @@
 	"variations": {
 		"default": {
 			"SMB1": {
-				"source": "PiranhaPlant.png",
+				"source": "Enemies.png",
 				"rect": [
 					0.0,
-					0.0,
+					104.0,
 					32.0,
 					24.0
 				]
 			},
 			"SMBANN": {
-				"source": "DiscoPiranha.png",
-				"rect": [
-					0.0,
-					0.0,
-					32.0,
-					24.0
-				]
-			}
-		},
-		"Underground": {
-			"SMB1": {
-				"source": "PiranhaPlant.png",
-				"rect": [
-					32.0,
-					0.0,
-					32.0,
-					24.0
-				]
-			},
-			"SMBANN": {
-				"source": "DiscoPiranha.png",
-				"rect": [
-					32.0,
-					0.0,
-					32.0,
-					24.0
-				]
-			}
-		},
-		"Castle": {
-			"link": "Underground"
-		},
-		"GhostHouse": {
-			"link": "Underground"
-		},
-		"Snow": {
-			"SMB1": {
-				"source": "PiranhaPlant.png",
-				"rect": [
-					0.0,
-					24.0,
-					32.0,
-					24.0
-				]
-			},
-			"SMBANN": {
-				"source": "DiscoPiranha.png",
-				"rect": [
-					0.0,
-					24.0,
-					32.0,
-					24.0
-				]
-			}
-		},
-		"Space": {
-			"SMB1": {
-				"source": "PiranhaPlant.png",
-				"rect": [
-					32.0,
-					24.0,
-					32.0,
-					24.0
-				]
-			},
-			"SMBANN": {
-				"source": "DiscoPiranha.png",
-				"rect": [
-					32.0,
-					24.0,
-					32.0,
-					24.0
-				]
-			}
-		},
-		"Volcano": {
-			"SMB1": {
-				"source": "PiranhaPlant.png",
+				"source": "Enemies.png",
 				"rect": [
 					64.0,
-					24.0,
-					32.0,
-					24.0
-				]
-			},
-			"SMBANN": {
-				"source": "DiscoPiranha.png",
-				"rect": [
-					64.0,
-					24.0,
-					32.0,
-					24.0
-				]
-			}
-		},
-		"Bonus": {
-			"SMB1": {
-				"source": "PiranhaPlant.png",
-				"rect": [
-					0.0,
-					48.0,
-					32.0,
-					24.0
-				]
-			},
-			"SMBANN": {
-				"source": "DiscoPiranha.png",
-				"rect": [
-					0.0,
-					48.0,
+					104.0,
 					32.0,
 					24.0
 				]

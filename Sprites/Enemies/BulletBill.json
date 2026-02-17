@@ -8,8 +8,8 @@
 	},
 	"variations": {
 		"default": {
-			"source": "BulletBill.png",
-			"rect": [0, 0, 16, 16]
+			"source": "Enemies.png",
+			"rect": [400, 0, 16, 16]
 		}
 	}
 }

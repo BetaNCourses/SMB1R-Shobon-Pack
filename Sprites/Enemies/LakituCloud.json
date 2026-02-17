@@ -8,8 +8,8 @@
 	},
 	"variations": {
 		"default": {
-			"source": "LakituCloud.png",
-			"rect": [0, 0, 32, 32]
+			"source": "Enemies.png",
+			"rect": [128, 96, 32, 32]
 		}
 	}
 }

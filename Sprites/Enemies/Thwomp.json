@@ -39,10 +39,10 @@
 	},
 	"variations": {
 		"default": {
-			"source": "Thwomp.png",
+			"source": "Enemies.png",
 			"rect": [
 				0.0,
-				0.0,
+				192.0,
 				72.0,
 				32.0
 			]

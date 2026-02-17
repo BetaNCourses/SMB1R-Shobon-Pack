@@ -11,8 +11,7 @@
 			"loop": true
 		}
 	},
-	"properties": {"can_spawn_particles": true},
 	"variations": {
-		"default": {"source": "BlueCoin.png", "rect": [0, 0, 64, 16]}
+		"default": {"source": "Items.png", "rect": [0, 48, 64, 16]},
 	}
 }

@@ -7,12 +7,6 @@
 					0.0,
 					16.0,
 					32.0
-				],
-				[
-					16.0,
-					0.0,
-					16.0,
-					32.0
 				]
 			],
 			"speed": 5.0,
@@ -21,20 +15,20 @@
 	},
 	"variations": {
 		"default": {
-			"source": "KoopaTroopa.png",
+			"source": "Enemies.png",
 			"rect": [
-				96.0,
+				144.0,
 				64.0,
-				32.0,
+				16.0,
 				32.0
 			]
 		},
 		"Snow": {
-			"source": "KoopaTroopa.png",
+			"source": "Enemies.png",
 			"rect": [
-				192.0,
+				224.0,
 				64.0,
-				32.0,
+				16.0,
 				32.0
 			]
 		}

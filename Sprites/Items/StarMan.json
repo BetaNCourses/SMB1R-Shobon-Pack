@@ -34,11 +34,11 @@
 	"variations": {
 		"default": {
 			"config:RetroItems": {
-				"On": {"source": "SuperStarRetro.png"},
-				"Off": {"source": "SuperStar.png"}
+				"On": {"source": "Items.png", "rect": [112, 112, 64, 32]},
+				"Off": {"source": "Items.png", "rect": [160, 0, 64, 32]}
 			},
 			"SMB1": {
-				"source": "SuperStar.png",
+				"source": "Items.png",
 				"rect": [
 					0.0,
 					0.0,
@@ -47,23 +47,23 @@
 				]
 			},
 			"SMBS": {
-				"source": "SuperStar.png",
+				"source": "Items.png",
 				"rect": [
 					0.0,
 					16.0,
 					64.0,
 					16.0
 				]
-			},
-			"SMBANN": {
-				"source": "DiscoStar.png",
+			}
+		},
+		"SMBANN": {
+				"source": "Items.png",
 				"rect": [
-					0.0,
-					0.0,
+					64.0,
+					96.0,
 					64.0,
 					16.0
 				]
 			}
-		}
 	}
 }

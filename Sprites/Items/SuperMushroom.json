@@ -9,18 +9,9 @@
 	"variations": {
 		"default": {
 			"config:RetroItems": {
-				"On": {"source": "SuperMushroomRetro.png"},
-				"Off": {"source": "SuperMushroom.png"}
-			},
-			"SMB1": {
-				"source": "SuperMushroom.png",
-				"rect": [0, 0, 16, 16]
-			},
-			"SMBLL": {
-				"source": "SuperMushroom.png",
-				"rect": [16, 0, 16, 16]
-			},
-			"SMBANN": {"link": "SMBLL"}
+				"On": {"source": "Items.png", "rect": [16, 0, 16, 16]},
+				"Off": {"source": "Items.png", "rect": [0, 0, 16, 16]}
+			}
 		}
 	}
 }

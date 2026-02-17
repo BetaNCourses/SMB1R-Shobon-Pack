@@ -33,10 +33,18 @@
 	},
 	"variations": {
 		"default": {
-			"SMB1": {"source": "FireFlower.png", "rect": [0.0,0.0,64.0,16.0]},
-			"SMBLL": {"link": "SMB1"},
-			"SMBANN": {"link": "SMB1"},
-			"SMBS": {"source": "FireFlowerSpecial.png", "rect": [0.0,0.0,64.0,16.0]}
+			"config:RetroItems": {
+					"On": {
+						"default": {"source": "Items.png", "rect": [96, 32, 64, 16]},
+					},
+					"Off": {
+						"SMB1": {"source": "Items.png", "rect": [96, 0, 64, 16]},
+						"SMBLL": {"link": "SMB1"},
+						"SMBS": {"source": "Items.png", "rect": [96, 16, 64, 16]},
+						"SMBANN": {"link": "SMB1"}
+					}
+			}
 		}
 	}
+	
 }

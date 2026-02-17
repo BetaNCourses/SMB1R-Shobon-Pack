@@ -21,8 +21,8 @@
 	},
 	"variations": {
 		"default": {
-			"source": "Muncher.png",
-			"rect": [0, 0, 32, 16]
+			"source": "Enemies.png",
+			"rect": [128, 144, 32, 16]
 		}
 	}
 }

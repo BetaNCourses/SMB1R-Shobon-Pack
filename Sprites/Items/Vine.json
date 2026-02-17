@@ -1,10 +1,10 @@
 {
 	"variations": {
 		"default": {
-			"source": "Vine.png",
+			"source": "Items.png",
 			"rect": [
-				0.0,
-				0.0,
+				208.0,
+				32.0,
 				16.0,
 				32.0
 			]

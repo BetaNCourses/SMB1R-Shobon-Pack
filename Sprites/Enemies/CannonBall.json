@@ -2,7 +2,7 @@
 	"variations": {
 		"default": {
 			"source": "CannonBall.png",
-			"rect": [0, 0, 16, 16]
+			"rect": [240, 192, 16, 16]
 		}
 	}
 }

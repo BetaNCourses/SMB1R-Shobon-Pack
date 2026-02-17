@@ -1,5 +1,5 @@
 {
 	"variations": {
-		"default": {"source": "Burner.png", "rect": [0, 0, 16, 16]}
+		"default": {"source": "Blocks.png", "rect": [0, 64, 16, 16]},
 	}
 }

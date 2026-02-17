@@ -26,6 +26,6 @@
 		}
 	},
 	"variations": {
-		"default": {"source": "DonutBlock.png", "rect": [0, 0, 32, 16]}
+		"default": {"source": "Blocks.png", "rect": [192, 0, 32, 16]}
 	}
 }

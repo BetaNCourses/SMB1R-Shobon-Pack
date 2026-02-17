@@ -22,19 +22,19 @@
 	"variations": {
 		"default": {
 			"SMB1": {
-				"source": "PiranhaPlant.png",
+				"source": "Enemies.png",
 				"rect": [
 					32.0,
-					48.0,
+					104.0,
 					32.0,
 					24.0
 				]
 			},
 			"SMBANN": {
-				"source": "DiscoPiranha.png",
+				"source": "Enemies.png",
 				"rect": [
-					32.0,
-					48.0,
+					96.0,
+					104.0,
 					32.0,
 					24.0
 				]

@@ -87,10 +87,10 @@
 	},
 	"variations": {
 		"default": {
-			"source": "Key.png",
+			"source": "Items.png",
 			"rect": [
-				0.0,
-				0.0,
+				64.0,
+				64.0,
 				48.0,
 				16.0
 			]

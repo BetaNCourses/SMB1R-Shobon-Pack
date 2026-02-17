@@ -99,10 +99,10 @@
 	},
 	"variations": {
 		"default": {
-			"source": "PSwitch.png",
+			"source": "Items.png",
 			"rect": [
-				0.0,
-				0.0,
+				64.0,
+				80.0,
 				64.0,
 				16.0
 			]

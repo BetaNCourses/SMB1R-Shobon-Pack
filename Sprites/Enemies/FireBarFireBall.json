@@ -7,6 +7,11 @@
 		}
 	},
 	"variations": {
-		"default": {"source": "Fireball.png"}
+		"default": {
+			"config:OGfireballs": {
+				"On": {"source": "Enemies.png", "rect":[436, 4, 8, 8]},
+				"Off": {"source": "Enemies.png", "rect":[420, 4, 8, 8]}
+			}
+		}
 	}
 }

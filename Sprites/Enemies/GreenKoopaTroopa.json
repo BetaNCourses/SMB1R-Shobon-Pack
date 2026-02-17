@@ -7,12 +7,6 @@
 					0.0,
 					16.0,
 					32.0
-				],
-				[
-					16.0,
-					0.0,
-					16.0,
-					32.0
 				]
 			],
 			"speed": 5.0,
@@ -21,31 +15,31 @@
 	},
 	"variations": {
 		"default": {
-			"source": "KoopaTroopa.png",
-			"rect": [0, 0, 32, 32]
+			"source": "Enemies.png",
+			"rect": [64, 0, 16, 32]
 		},
 		"Underground": {
-			"source": "KoopaTroopa.png",
-			"rect": [96, 0, 32, 32]
+			"source": "Enemies.png",
+			"rect": [144, 0, 16, 32]
 		},
 		"Castle": {"link": "Underground"},
 		"GhostHouse": {"link": "Underground"},
-		"Underwater": {"source": "KoopaTroopa.png", "rect": [192, 0, 32, 32]},
+		"Underwater": {"source": "Enemies.png", "rect": [224, 0, 16, 32]},
 		"Snow": {
-			"source": "KoopaTroopa.png",
-			"rect": [0, 32, 32, 32]
+			"source": "Enemies.png",
+			"rect": [64, 32, 16, 32]
 		},
 		"Space": {
-			"source": "KoopaTroopa.png",
-			"rect": [96, 32, 32, 32]
+			"source": "Enemies.png",
+			"rect": [144, 32, 16, 32]
 		},
 		"Volcano": {
-			"source": "KoopaTroopa.png",
-			"rect": [192, 32, 32, 32]
+			"source": "Enemies.png",
+			"rect": [224, 32, 16, 32]
 		},
 		"Bonus": {
-			"source": "KoopaTroopa.png",
-			"rect": [0, 64, 32, 32]
+			"source": "Enemies.png",
+			"rect": [64, 64, 16, 32]
 		}
 	}
 }

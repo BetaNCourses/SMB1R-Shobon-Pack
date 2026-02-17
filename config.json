@@ -1,7 +1,8 @@
 {
 	"options": {
 		"RetroItems": "Off",
-		"OGfireballs": "Off"
+		"OGfireballs": "Off",
+		"ShobonBranding": "Off"
 	},
 	"value_keys": {
 		"RetroItems": [
@@ -9,6 +10,10 @@
 			"Off"
 		],
 		"OGfireballs": [
+			"On",
+			"Off"
+		],
+		"ShobonBranding": [
 			"On",
 			"Off"
 		]

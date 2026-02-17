@@ -75,10 +75,10 @@
 	},
 	"variations": {
 		"default": {
-			"source": "YoshiEgg.png",
+			"source": "Items.png",
 			"rect": [
 				0.0,
-				0.0,
+				96.0,
 				32.0,
 				64.0
 			]

@@ -37,7 +37,7 @@
 	"variations": {
 		"default": {
 			"source": "Goombrat.png",
-			"rect": [0, 0, 48, 16]
+			"rect": [0, 48, 48, 16]
 		}
 	}
 }
