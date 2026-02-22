@@ -1,0 +1,116 @@
+{
+	"name": "Shobon",
+	"physics": {
+		"PHYSICS_PARAMETERS": {
+			"Default": {
+				"AIR_WALK_ACCEL": 3.0,
+				"AIR_RUN_ACCEL": 3.0,
+				"AIR_BACKWARDS_ACCEL": 3.0,
+				"AIR_WALK_SKID_ACCEL": 4.5,
+				"AIR_RUN_SKID_ACCEL": 4.5,
+				"AIR_BACKWARDS_SKID_ACCEL": 4.5,
+				"GROUND_WALK_DECEL": 3.0,
+				"GROUND_RUN_DECEL": 3.0,
+				"FALL_GRAVITY_IDLE": 15.0,
+				"FALL_GRAVITY_WALK": 15.0,
+				"FALL_GRAVITY_RUN": 15.0,
+				"GROUND_RUN_ACCEL": 3.0,
+				"GROUND_WALK_ACCEL": 3.0,
+				"JUMP_GRAVITY_IDLE": 11.0,
+				"JUMP_GRAVITY_WALK": 11.0,
+				"JUMP_GRAVITY_RUN": 11.0,
+				"JUMP_SPEED_IDLE": 300.0,
+				"JUMP_SPEED_WALK": 300.0,
+				"JUMP_SPEED_RUN": 300.0,
+				"JUMP_INCR": 8.0,
+				"SWIM_GRAVITY": 5.0,
+				"SWIM_SPEED": 110.0,
+				"MAX_FALL_SPEED": 280.0,
+				"MAX_SWIM_FALL_SPEED": 200.0,
+				"RUN_SKID": 8.0,
+				"RUN_SPEED": 120.0,
+				"WALK_SKID": 8.0,
+				"WALK_SPEED": 120.0,
+				"COLLISION_SIZE": [
+					5.6,
+					19.6
+				],
+				"CROUCH_COLLISION_SIZE": [
+					5.6,
+					9.8
+				]
+			},
+			"Small": {
+				"COLLISION_SIZE": [
+					5.6,
+					9.8
+				],
+				"CROUCH_COLLISION_SIZE": [
+					5.6,
+					9.8
+				]
+			},
+			"Big": {
+
+			},
+			"Fire": {
+
+			}
+		},
+		"CLASSIC_PARAMETERS": {
+			"Default": {
+
+			},
+			"Small": {
+
+			},
+			"Big": {
+
+			},
+			"Fire": {
+
+			}
+		},
+		"ENDING_PARAMETERS": {
+			"Default": {
+
+			},
+			"Small": {
+
+			},
+			"Big": {
+
+			},
+			"Fire": {
+
+			}
+		},
+		"DEATH_PARAMETERS": {
+			"Default": {
+
+			}
+		},
+		"COSMETIC_PARAMETERS": {
+			"Default": {
+
+			},
+			"Small": {
+
+			},
+			"Big": {
+
+			},
+			"Fire": {
+
+			}
+		},
+		"POWER_PARAMETERS": {
+			"Default": {
+
+			},
+			"Fire": {
+
+			}
+		}
+	}
+}

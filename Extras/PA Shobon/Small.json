@@ -1,0 +1,152 @@
+{
+	"animations": {
+		"Idle": {
+			"frames": [[0, 0, 32, 40]],
+			"speed": 5,
+			"loop": true
+		},
+		"Crouch": {
+			"frames": [[64, 0, 32, 40]],
+			"speed": 5,
+			"loop": true
+		},
+		"Move": {
+			"frames": [
+				[96, 0, 32, 40],
+				[128, 0, 32, 40]
+			],
+			"speed": 5,
+			"loop": true
+		},
+		"Run": {
+			"frames": [
+				[192, 0, 32, 40],
+				[224, 0, 32, 40]
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Skid": {
+			"frames": [[288, 0, 32, 40]],
+			"speed": 5,
+			"loop": true
+		},
+		"Jump": {
+			"frames": [[0, 40, 32, 40]],
+			"speed": 5,
+			"loop": true
+		},
+		"JumpFall": {
+			"frames": [[32, 40, 32, 40]],
+			"speed": 5,
+			"loop": true
+		},
+		"StarJump": {
+			"frames": [
+				[64, 40, 32, 40],
+				[96, 40, 32, 40],
+				[128, 40, 32, 40],
+				[160, 40, 32, 40],
+				[192, 40, 32, 40],
+				[224, 40, 32, 40],
+				[256, 40, 32, 40],
+				[288, 40, 32, 40]
+			],
+			"speed": 30,
+			"loop": true
+		},
+		"StarFall": {
+			"frames": [
+				[64, 40, 32, 40],
+				[96, 40, 32, 40],
+				[128, 40, 32, 40],
+				[160, 40, 32, 40],
+				[192, 40, 32, 40],
+				[224, 40, 32, 40],
+				[256, 40, 32, 40],
+				[288, 40, 32, 40]
+			],
+			"speed": 30,
+			"loop": true
+		},
+		"SwimIdle": {
+			"frames": [
+				[0, 80, 32, 40],
+				[32, 80, 32, 40]
+			],
+			"speed": 10,
+			"loop": true
+		},
+		"SwimUp": {
+			"frames": [
+				[96, 80, 32, 40],
+				[128, 80, 32, 40],
+				[160, 80, 32, 40]
+			],
+			"speed": 10,
+			"loop": true
+		},
+		"Climb": {
+			"frames": [
+				[192, 80, 32, 40],
+				[224, 80, 32, 40]
+			],
+			"speed": 5,
+			"loop": true
+		},
+		"FlagSlide": {
+			"frames": [[256, 80, 32, 40]],
+			"speed": 5,
+			"loop": true
+		},
+		"Die": {
+			"frames": [[288, 80, 32, 40]],
+			"speed": 5,
+			"loop": true
+		},
+		"Attack": {
+			"frames": [[0, 120, 32, 40]],
+			"speed": 5,
+			"loop": true
+		},
+		"CrouchAttack": {
+			"frames": [[32, 120, 32, 40]],
+			"speed": 5,
+			"loop": true
+		},
+		"AirAttack": {
+			"frames": [[64, 120, 32, 40]],
+			"speed": 5,
+			"loop": true
+		},
+		"SwimAttack": {
+			"frames": [[96, 120, 32, 40]],
+			"speed": 5,
+			"loop": true
+		},
+		"Grow": {
+			"frames": [
+				[128, 120, 32, 40],
+				[0, 0, 32, 40]
+			],
+			"speed": 5,
+			"loop": true
+		},
+		"FaceForward": {
+			"frames": [[256, 120, 32, 40]],
+			"speed": 5,
+			"loop": true
+		},
+		"Pose": {
+			"frames": [[288, 120, 32, 40]],
+			"speed": 5,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "Small.png",
+			"rect": [0, 0, 320, 160]
+		}
+	}
+}

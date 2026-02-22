@@ -25,6 +25,6 @@
 		},
 	},
 	"variations": {
-		"default": {"source": "Items.png", "rect": [144, 32, 32, 16]}
+		"default": {"source": "Items.png", "rect": [144, 48, 32, 16]}
 	}
 }

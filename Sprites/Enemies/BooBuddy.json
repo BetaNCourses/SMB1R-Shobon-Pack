@@ -9,9 +9,9 @@
 	"variations": {
 		"default": {
 			"choices": [
-				{"source": "BooBuddy.png", "rect": [400, 128, 32, 16]},
-				{"source": "BooBuddy.png", "rect": [432, 128, 32, 16]},
-				{"source": "BooBuddy.png", "rect": [464, 128, 32, 16]}
+				{"source": "Enemies.png", "rect": [400, 128, 32, 16]},
+				{"source": "Enemies.png", "rect": [432, 128, 32, 16]},
+				{"source": "Enemies.png", "rect": [464, 128, 32, 16]}
 			]
 		}
 	}

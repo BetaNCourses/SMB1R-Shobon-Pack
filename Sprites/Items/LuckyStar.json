@@ -1,12 +1,12 @@
 {
 	"animations": {
 		"default": {
-			"frames": [0, 0, 16, 16],
-			"speed": 15.0,
+			"frames": [[0, 0, 16, 16], [16, 0, 16, 16]],
+			"speed": 5.0,
 			"loop": true
 		}
 	},
 	"variations": {
-		"default": {"source": "Items.png", "rect": [128, 64, 16, 16]}
+		"default": {"source": "Items.png", "rect": [160, 64, 32, 16]}
 	}
 }

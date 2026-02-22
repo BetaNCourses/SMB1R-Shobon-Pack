@@ -57,7 +57,7 @@
 	},
 	"variations": {
 		"default": {
-			"source": "Spike.png",
+			"source": "Enemies.png",
 			"rect": [
 				128.0,
 				160.0,

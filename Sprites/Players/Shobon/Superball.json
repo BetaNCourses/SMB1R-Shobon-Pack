@@ -1,0 +1,216 @@
+{
+	"animations": {
+		"Attack": {
+			"frames": [[224, 0, 32, 32]],
+			"speed": 0,
+			"loop": false
+		},
+		"Climb": {
+			"frames": [
+				[
+					192,
+					32,
+					32,
+					32
+				],
+				[
+					224,
+					32,
+					32,
+					32
+				]
+			],
+			"speed": 5,
+			"loop": true
+		},
+		"LookUp": {
+			"frames": [
+				[
+					128,
+					0,
+					32,
+					32
+				]
+			],
+			"speed": 0,
+			"loop": false
+		},
+		"Crouch": {
+			"frames": [
+				[
+					160,
+					0,
+					32,
+					32
+				]
+			],
+			"speed": 0,
+			"loop": false
+		},
+		"Die": {
+			"frames": [
+				[
+					96,
+					0,
+					32,
+					32
+				]
+			],
+			"speed": 0,
+			"loop": false
+		},
+		"Grow": {
+			"frames": [
+				[
+					0,
+					64,
+					32,
+					32
+				],
+				[
+					0,
+					0,
+					32,
+					32
+				]
+			],
+			"speed": 5,
+			"loop": true
+		},
+		"Idle": {
+			"frames": [
+				[
+					0,
+					0,
+					32,
+					32
+				]
+			],
+			"speed": 0,
+			"loop": false
+		},
+		"Jump": {
+			"frames": [
+				[
+					64,
+					0,
+					32,
+					32
+				]
+			],
+			"speed": 0,
+			"loop": false
+		},
+		"Move": {
+			"frames": [
+				[
+					0,
+					0,
+					32,
+					32
+				],
+				[
+					32,
+					0,
+					32,
+					32
+				]
+			],
+			"speed": 3,
+			"loop": true
+		},
+		"Skid": {
+			"frames": [
+				[
+					192,
+					0,
+					32,
+					32
+				]
+			],
+			"speed": 0,
+			"loop": false
+		},
+		"SwimIdle": {
+			"frames": [
+				[
+					0,
+					32,
+					32,
+					32
+				],
+				[
+					0,
+					32,
+					32,
+					32
+				]
+			],
+			"speed": 10,
+			"loop": true
+		},
+		"SwimUp": {
+			"frames": [
+				[
+					0,
+					32,
+					32,
+					32
+				],
+				[
+					32,
+					32,
+					32,
+					32
+				],
+				[
+					64,
+					32,
+					32,
+					32
+				],
+				[
+					96,
+					32,
+					32,
+					32
+				],
+				[
+					128,
+					32,
+					32,
+					32
+				],
+				[
+					160,
+					32,
+					32,
+					32
+				]
+			],
+			"speed": 15,
+			"loop": true
+		},
+		"FaceForward": {
+			"frames": [[32, 64, 32, 32]],
+			"speed": 0,
+			"loop": false
+		},
+		"Pose": {
+			"frames": [[64, 64, 32, 32]],
+			"speed": 0,
+			"loop": false
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "Superball.png",
+			"rect": [
+				0,
+				0,
+				256,
+				96
+			]
+		}
+	}
+}

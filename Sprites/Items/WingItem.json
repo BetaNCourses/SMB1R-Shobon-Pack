@@ -7,6 +7,6 @@
 		}
 	},
 	"variations": {
-		"default": {"source": "Items.png", "rect": [144, 48, 16, 16]}
+		"default": {"source": "Items.png", "rect": [144, 64, 16, 16]}
 	}
 }
