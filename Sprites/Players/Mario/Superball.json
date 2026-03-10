@@ -9,8 +9,8 @@
 					32.0
 				]
 			],
-			"speed": 15.0,
-			"loop": false
+			"speed": 5.0,
+			"loop": true
 		},
 		"Attack": {
 			"frames": [
@@ -19,10 +19,10 @@
 					32.0,
 					32.0,
 					32.0
-				],
+				]
 			],
-			"speed": 15.0,
-			"loop": false
+			"speed": 5.0,
+			"loop": true
 		},
 		"Climb": {
 			"frames": [
@@ -153,8 +153,8 @@
 					32.0
 				]
 			],
-			"speed": 15.0,
-			"loop": false
+			"speed": 5.0,
+			"loop": true
 		},
 		"SwimIdle": {
 			"frames": [
@@ -228,6 +228,6 @@
 		}
 	},
 	"variations": {
-		"default": {"source": "Fire.png"}
+		"default": {"source": "Superball.png"}
 	}
 }

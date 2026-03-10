@@ -6,6 +6,7 @@
 			"loop": true
 		}
 	},
-"variations": {"source": "CheckpointFlag.png"}
+	"variations": {
+		"default": {"source": "CheckpointFlag.png"}
+	}
 }
-
