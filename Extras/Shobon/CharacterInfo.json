@@ -1,0 +1,85 @@
+{
+	"name": "Shobon",
+	"physics": {
+		"PHYSICS_PARAMETERS": {
+			"Default": {
+				"CAN_AIR_TURN": true,
+				"CAN_BE_WALL_EJECTED": true
+			},
+			"Small": {
+				"COLLISION_SIZE": [12, 17],
+				"CROUCH_COLLISION_SIZE": [12, 14],
+				"CAN_BREAK_BRICKS": true,
+			},
+			"Big": {
+				"COLLISION_SIZE": [14, 24],
+				"CROUCH_COLLISION_SIZE": [14, 17],
+			},
+			"Fire": {
+				"COLLISION_SIZE": [14, 24],
+				"CROUCH_COLLISION_SIZE": [14, 17],
+			}
+		},
+		"CLASSIC_PARAMETERS": {
+			"Default": {
+				"CAN_AIR_TURN": true,
+				"CAN_BE_WALL_EJECTED": true,
+				"LOCK_AIR_SPEED": false
+			},
+			"Small": {
+				"COLLISION_SIZE": [12, 17],
+				"CROUCH_COLLISION_SIZE": [12, 14],
+				"CAN_BREAK_BRICKS": true,
+			},
+			"Big": {
+				"COLLISION_SIZE": [14, 24],
+				"CROUCH_COLLISION_SIZE": [14, 17],
+			},
+			"Fire": {
+				"COLLISION_SIZE": [14, 24],
+				"CROUCH_COLLISION_SIZE": [14, 17],
+			}
+		},
+		"ENDING_PARAMETERS": {
+			"Default": {
+
+			},
+			"Small": {
+
+			},
+			"Big": {
+
+			},
+			"Fire": {
+
+			}
+		},
+		"DEATH_PARAMETERS": {
+			"Default": {
+
+			}
+		},
+		"COSMETIC_PARAMETERS": {
+			"Default": {
+
+			},
+			"Small": {
+
+			},
+			"Big": {
+
+			},
+			"Fire": {
+
+			}
+		},
+		"POWER_PARAMETERS": {
+			"Default": {
+
+			},
+			"Fire": {
+
+			}
+		}
+	}
+}
