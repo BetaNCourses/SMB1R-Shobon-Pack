@@ -1,0 +1,69 @@
+{
+	"animations": {
+		"default": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					16.0
+				],
+				[
+					16.0,
+					0.0,
+					16.0,
+					16.0
+				],
+				[
+					32.0,
+					0.0,
+					16.0,
+					16.0
+				],
+				[
+					48.0,
+					0.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 15.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"config:RetroItems": {
+				"On": {"source": "Items.png", "rect": [112, 112, 64, 32]},
+				"Off": {"source": "Items.png", "rect": [160, 0, 64, 32]}
+			},
+			"SMB1": {
+				"source": "Items.png",
+				"rect": [
+					0.0,
+					0.0,
+					64.0,
+					16.0
+				]
+			},
+			"SMBS": {
+				"source": "Items.png",
+				"rect": [
+					0.0,
+					16.0,
+					64.0,
+					16.0
+				]
+			}
+		},
+		"SMBANN": {
+				"source": "Items.png",
+				"rect": [
+					64.0,
+					96.0,
+					64.0,
+					16.0
+				]
+			}
+	}
+}

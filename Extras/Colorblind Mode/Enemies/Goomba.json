@@ -1,0 +1,159 @@
+{
+	"properties": {
+		"can_turn": true
+	},
+	"animations": {
+		"Walk": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Stomped": {
+			"frames": [
+				[
+					16.0,
+					0.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"SMB1": {
+				"source": "Enemies.png",
+				"rect": [
+					0.0,
+					0.0,
+					32.0,
+					16.0
+				]
+			},
+			"SMBANN": {
+				"source": "Enemies.png",
+				"rect": [
+					32.0,
+					48.0,
+					32.0,
+					16.0
+				]
+			}
+		},
+		"Castle": {
+			"SMB1": {
+				"source": "Enemies.png",
+				"rect": [
+					32.0,
+					0.0,
+					32.0,
+					16.0
+				]
+			},
+			"SMBANN": {
+				"source": "Enemies.png",
+				"rect": [
+					32.0,
+					48.0,
+					32.0,
+					16.0
+				]
+			}
+		},
+		"CastleWater": {
+				"link": "Castle"
+		},
+		"Desert": {
+			"SMB1": {
+				"source": "Enemies.png",
+				"rect": [
+					0.0,
+					16.0,
+					32.0,
+					16.0
+				]
+			},
+			"SMBANN": {
+				"source": "Enemies.png",
+				"rect": [
+					32.0,
+					48.0,
+					32.0,
+					16.0
+				]
+			}
+		},
+		"Snow": {
+			"SMB1": {
+				"source": "Enemies.png",
+				"rect": [
+					32.0,
+					16.0,
+					32.0,
+					16.0
+				]
+			},
+			"SMBANN": {
+				"source": "Enemies.png",
+				"rect": [
+					32.0,
+					48.0,
+					32.0,
+					16.0
+				]
+			}
+		},
+		"Volcano": {
+			"SMB1": {
+				"source": "Enemies.png",
+				"rect": [
+					0.0,
+					16.0,
+					32.0,
+					16.0
+				]
+			},
+			"SMBANN": {
+				"source": "Enemies.png",
+				"rect": [
+					32.0,
+					48.0,
+					32.0,
+					16.0
+				]
+			}
+		},
+		"Beach": {
+				"link": "Desert"
+		},
+		"Space": {
+			"SMB1": {
+				"source": "Enemies.png",
+				"rect": [
+					32.0,
+					32.0,
+					32.0,
+					16.0
+				]
+			},
+			"SMBANN": {
+				"source": "Enemies.png",
+				"rect": [
+					32.0,
+					48.0,
+					32.0,
+					16.0
+				]
+			}
+		},
+	}
+}

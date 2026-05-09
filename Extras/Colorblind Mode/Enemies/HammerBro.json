@@ -1,0 +1,73 @@
+{
+	"animations": {
+		"Hammer": {
+			"frames": [
+				[
+					32.0,
+					0.0,
+					16.0,
+					24.0
+				],
+				[
+					48.0,
+					0.0,
+					16.0,
+					24.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Idle": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					24.0
+				],
+				[
+					16.0,
+					0.0,
+					16.0,
+					24.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "Enemies.png",
+			"rect": [304, 32, 64, 24]
+		},
+		"Underground": {
+			"source": "Enemies.png",
+			"rect": [368, 32, 64, 24]
+		},
+		"Castle": {"link": "Underground"},
+		"GhostHouse": {"link": "Underground"},
+		"Underwater": {
+			"source": "Enemies.png",
+			"rect": [432, 32, 64, 24]
+		},
+		"CastleWater": {"link": "Underwater"},
+		"Snow": {
+			"source": "Enemies.png",
+			"rect": [304, 56, 64, 24]
+		},
+		"Space": {
+			"source": "Enemies.png",
+			"rect": [368, 56, 64, 24]
+		},
+		"Volcano": {
+			"source": "Enemies.png",
+			"rect": [432, 56, 64, 24]
+		},
+		"Bonus": {
+			"source": "Enemies.png",
+			"rect": [368, 80, 64, 24]
+		}
+	}
+}

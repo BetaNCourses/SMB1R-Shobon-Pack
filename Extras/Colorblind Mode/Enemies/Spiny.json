@@ -1,0 +1,45 @@
+{
+	"animations": {
+		"Egg": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					16.0
+				],
+				[
+					16.0,
+					0.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 20.0,
+			"loop": true
+		},
+		"Walk": {
+			"frames": [
+				[
+					32.0,
+					0.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "Enemies.png",
+			"rect": [
+				304.0,
+				16.0,
+				48.0,
+				16.0
+			]
+		}
+	}
+}
