@@ -1,5 +1,5 @@
 {
-	"name": "Shobon",
+	"name": "Nekoamon",
 	"physics": {
 		"PHYSICS_PARAMETERS": {
 			"Default": {
@@ -7,37 +7,34 @@
 				"CAN_BE_WALL_EJECTED": true
 			},
 			"Small": {
-				"COLLISION_SIZE": [12, 16],
-				"CROUCH_COLLISION_SIZE": [12, 13],
-				"CAN_BREAK_BRICKS": true
+				"COLLISION_SIZE": [14, 24],
+				"CROUCH_COLLISION_SIZE": [14, 17],
+				"CAN_BREAK_BRICKS": true,
+				"CAN_BE_WALL_EJECTED": true
 			},
 			"Big": {
-				"COLLISION_SIZE": [12, 16],
-				"CROUCH_COLLISION_SIZE": [12, 13]
+				"COLLISION_SIZE": [20, 38],
+				"CROUCH_COLLISION_SIZE": [20, 28],
+				"CAN_BE_WALL_EJECTED": true
 			},
 			"Fire": {
-				"COLLISION_SIZE": [12, 16],
-				"CROUCH_COLLISION_SIZE": [12, 13]
+				"COLLISION_SIZE": [20, 38],
+				"CROUCH_COLLISION_SIZE": [20, 28],
+				"CAN_BE_WALL_EJECTED": true
 			}
 		},
 		"CLASSIC_PARAMETERS": {
 			"Default": {
-				"CAN_AIR_TURN": true,
-				"CAN_BE_WALL_EJECTED": true,
-				"LOCK_AIR_SPEED": false
+			
 			},
 			"Small": {
-				"COLLISION_SIZE": [12, 16],
-				"CROUCH_COLLISION_SIZE": [12, 13],
-				"CAN_BREAK_BRICKS": true
+			
 			},
 			"Big": {
-				"COLLISION_SIZE": [12, 16],
-				"CROUCH_COLLISION_SIZE": [12, 13]
+			
 			},
 			"Fire": {
-				"COLLISION_SIZE": [12, 16],
-				"CROUCH_COLLISION_SIZE": [12, 13]
+			
 			}
 		},
 		"ENDING_PARAMETERS": {

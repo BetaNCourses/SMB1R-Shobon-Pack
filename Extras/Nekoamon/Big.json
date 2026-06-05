@@ -1,0 +1,240 @@
+{
+	"animations": {
+		"Attack": {
+			"frames": [[336, 0, 48, 48]],
+			"speed": 0,
+			"loop": false
+		},
+		"Climb": {
+			"frames": [
+				[
+					0,
+					96,
+					48,
+					48
+				],
+				[
+					48,
+					96,
+					48,
+					48
+				]
+			],
+			"speed": 5,
+			"loop": true
+		},
+		"LookUp": {
+			"frames": [
+				[
+					0,
+					48,
+					48,
+					48
+				]
+			],
+			"speed": 0,
+			"loop": false
+		},
+		"Crouch": {
+			"frames": [
+				[
+					48,
+					48,
+					48,
+					48
+				]
+			],
+			"speed": 0,
+			"loop": false
+		},
+		"Die": {
+			"frames": [
+				[
+					96,
+					0,
+					48,
+					48
+				]
+			],
+			"speed": 0,
+			"loop": false
+		},
+		"Grow": {
+			"frames": [
+				[
+					144,
+					96,
+					48,
+					48
+				],
+				[
+					192,
+					96,
+					48,
+					48
+				]
+			],
+			"speed": 2,
+			"loop": false
+		},
+		"Shrink": {
+			"frames": [
+				[
+					192,
+					96,
+					48,
+					48
+				],
+				[
+					144,
+					96,
+					48,
+					48
+				]
+			],
+			"speed": 2,
+			"loop": false
+		},
+		"Idle": {
+			"frames": [
+				[
+					0,
+					0,
+					48,
+					48
+				]
+			],
+			"speed": 0,
+			"loop": false
+		},
+		"Jump": {
+			"frames": [
+				[
+					240,
+					0,
+					48,
+					48
+				]
+			],
+			"speed": 0,
+			"loop": false
+		},
+		"JumpFall": {
+			"frames": [
+				[
+					288,
+					0,
+					48,
+					48
+				]
+			],
+			"speed": 0,
+			"loop": false
+		},
+		"Move": {
+			"frames": [
+				[
+					48,
+					0,
+					48,
+					48
+				],
+				[
+					96,
+					0,
+					48,
+					48
+				],
+				[
+					144,
+					0,
+					48,
+					48
+				],
+				[
+					192,
+					0,
+					48,
+					48
+				],
+			],
+			"speed": 3,
+			"loop": true
+		},
+		"Skid": {
+			"frames": [
+				[
+					96,
+					48,
+					48,
+					48
+				]
+			],
+			"speed": 0,
+			"loop": false
+		},
+		"SwimIdle": {
+			"frames": [
+				[
+					144,
+					48,
+					48,
+					48
+				],
+				[
+					192,
+					48,
+					48,
+					48
+				]
+			],
+			"speed": 10,
+			"loop": true
+		},
+		"SwimUp": {
+			"frames": [
+				[
+					144,
+					48,
+					48,
+					48
+				],
+				[
+					240,
+					48,
+					48,
+					48
+				],
+				[
+					288,
+					48,
+					48,
+					48
+				]
+			],
+			"speed": 10,
+			"loop": true
+		},
+		"FaceForward": {
+			"frames": [[240, 96, 48, 48]],
+			"speed": 0,
+			"loop": false
+		},
+		"Pose": {
+			"frames": [[288, 96, 48, 48]],
+			"speed": 0,
+			"loop": false
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "Big.png",
+			"rect": [
+				0,
+				0,
+				384,
+				144
+			]
+		}
+	}
+}
