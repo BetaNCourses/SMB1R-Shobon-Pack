@@ -1,0 +1,45 @@
+{
+	"animations": {
+		"Walk": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					32.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "Enemies.png",
+			"rect": [64, 0, 16, 32]
+		},
+		"Underground": {
+			"source": "Enemies.png",
+			"rect": [144, 0, 16, 32]
+		},
+		"Castle": {"link": "Underground"},
+		"GhostHouse": {"link": "Underground"},
+		"Underwater": {"source": "Enemies.png", "rect": [224, 0, 16, 32]},
+		"Snow": {
+			"source": "Enemies.png",
+			"rect": [64, 32, 16, 32]
+		},
+		"Space": {
+			"source": "Enemies.png",
+			"rect": [144, 32, 16, 32]
+		},
+		"Volcano": {
+			"source": "Enemies.png",
+			"rect": [224, 32, 16, 32]
+		},
+		"Bonus": {
+			"source": "Enemies.png",
+			"rect": [64, 64, 16, 32]
+		}
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"animations": {
+		"Idle": {
+			"frames": [
+				[
+					0.0,
+					16.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Spin": {
+			"frames": [
+				[
+					16.0,
+					16.0,
+					16.0,
+					16.0
+				],
+				[
+					32.0,
+					16.0,
+					16.0,
+					16.0
+				],
+				[
+					48.0,
+					16.0,
+					16.0,
+					16.0
+				],
+				[
+					0.0,
+					16.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 15.0,
+			"loop": true
+		},
+		"Wake": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					16.0
+				],
+				[
+					0.0,
+					16.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "Enemies.png",
+			"rect": [
+				80.0,
+				0.0,
+				64.0,
+				32.0
+			]
+		},
+		"Underground": {
+			"source": "Enemies.png",
+			"rect": [
+				160.0,
+				0.0,
+				64.0,
+				32.0
+			]
+		},
+		"Castle": {
+			"link": "Underground"
+		},
+		"GhostHouse": {
+			"link": "Underground"
+		},
+		"Underwater": {
+			"source": "Enemies.png",
+			"rect": [
+				240.0,
+				0.0,
+				64.0,
+				32.0
+			]
+		},
+		"CastleWater": {
+			"link": "Underwater"
+		},
+		"Snow": {
+			"source": "Enemies.png",
+			"rect": [
+				80.0,
+				32.0,
+				64.0,
+				32.0
+			]
+		},
+		"Space": {
+			"source": "Enemies.png",
+			"rect": [
+				160.0,
+				32.0,
+				64.0,
+				32.0
+			]
+		},
+		"Volcano": {
+			"source": "Enemies.png",
+			"rect": [
+				240.0,
+				32.0,
+				64.0,
+				32.0
+			]
+		},
+		"Bonus": {
+			"source": "Enemies.png",
+			"rect": [
+				80.0,
+				64.0,
+				64.0,
+				32.0
+			]
+		}
+	}
+}

@@ -1,0 +1,5 @@
+{
+	"variations": {
+		"default": {"source": "Items.png", "rect": [128, 48, 16, 16]}
+	}
+}

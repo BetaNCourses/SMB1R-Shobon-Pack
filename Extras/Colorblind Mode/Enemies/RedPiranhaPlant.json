@@ -1,0 +1,44 @@
+{
+	"animations": {
+		"default": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					24.0
+				],
+				[
+					16.0,
+					0.0,
+					16.0,
+					24.0
+				]
+			],
+			"speed": 10.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"SMB1": {
+				"source": "Enemies.png",
+				"rect": [
+					32.0,
+					104.0,
+					32.0,
+					24.0
+				]
+			},
+			"SMBANN": {
+				"source": "Enemies.png",
+				"rect": [
+					96.0,
+					104.0,
+					32.0,
+					24.0
+				]
+			}
+		}
+	}
+}

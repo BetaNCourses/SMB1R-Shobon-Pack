@@ -1,0 +1,8 @@
+{
+	"variations": {
+		"default": {
+			"source": "CannonBall.png",
+			"rect": [240, 192, 16, 16]
+		}
+	}
+}
