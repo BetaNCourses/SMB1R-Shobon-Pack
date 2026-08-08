@@ -19,27 +19,17 @@
 		"config:Power-Ups Style": {
 			"SNA (OG)": {
 				"SMB1": {
-					"source": "SuperStar.png",
+					"source": "SuperballFlower.png",
 					"rect": [0, 0, 128, 16]
 				},
 				"SMBS": {
-					"source": "SuperStar.png",
+					"source": "SuperballFlower.png",
 					"rect": [0, 16, 128, 16]
-				},
-				"SMBANN": {
-					"source": "SuperStar.png",
-					"rect": [0, 48, 128, 16]
 				}
 			},
 			"SMB. (Retro)": {
-				"SMB1": {
-					"source": "SuperStar.png",
-					"rect": [0, 32, 128, 16]
-				},
-				"SMBANN": {
-					"source": "SuperStar.png",
-					"rect": [0, 64, 128, 16]
-				}
+				"source": "SuperballFlower.png",
+				"rect": [0, 32, 128, 16]
 			}
 		}
 	}
