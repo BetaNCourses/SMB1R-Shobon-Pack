@@ -1,15 +1,12 @@
 {
-	"properties": {
-		"sky_scroll_speed": -4
-	},
+	"properties": {"sky_scroll_speed": 1},
 	"variations": {
-		 "Day": {
+		"Day": {
 			"default": {
 				"SMB1": {"source": "DaySky.png"},
 				"SMBLL": {"source": "DaySkyLL.png"}
 			},
-			"Beach":
-			{
+			"Beach": {
 				"SMB1": {"source": "BeachSky.png"},
 				"SMBLL": {"source": "BeachSkyLL.png"}
 			},
@@ -29,40 +26,80 @@
 			"Space": {
 				"source": "SpaceStars.png",
 				"properties": {"sky_scroll_speed": 0},
-				"animations": {"default": {
-					"frames": [[0, 0, 512, 512], [512, 0, 512, 512]],
-					"speed": 5.0,
-					"loop": true
-				}}
+				"animations": {
+					"default": {
+						"frames": [
+							[0, 0, 256, 256],
+							[256, 0, 256, 256],
+							[512, 0, 256, 256],
+							[768, 0, 256, 256],
+							[1024, 0, 256, 256],
+							[1280, 0, 256, 256],
+							[1536, 0, 256, 256]
+						],
+						"speed": 10,
+						"loop": true
+					}
+				}
 			}
 		},
 		"Night": {
 			"default": {
 				"source": "NightStars.png",
 				"properties": {"sky_scroll_speed": 0},
-				"animations": {"default": {
-					"frames": [[0, 0, 512, 512], [512, 0, 512, 512]],
-					"speed": 5.0,
-					"loop": true
-				}}
+				"animations": {
+					"default": {
+						"frames": [
+							[0, 0, 256, 256],
+							[256, 0, 256, 256],
+							[512, 0, 256, 256],
+							[768, 0, 256, 256],
+							[1024, 0, 256, 256],
+							[1280, 0, 256, 256],
+							[1536, 0, 256, 256]
+						],
+						"speed": 10,
+						"loop": true
+					}
+				}
 			},
 			"Space": {
 				"source": "SpaceStars.png",
 				"properties": {"sky_scroll_speed": 0},
-				"animations": {"default": {
-					"frames": [[0, 0, 512, 512], [512, 0, 512, 512]],
-					"speed": 5.0,
-					"loop": true
-				}}
+				"animations": {
+					"default": {
+						"frames": [
+							[0, 0, 256, 256],
+							[256, 0, 256, 256],
+							[512, 0, 256, 256],
+							[768, 0, 256, 256],
+							[1024, 0, 256, 256],
+							[1280, 0, 256, 256],
+							[1536, 0, 256, 256]
+						],
+						"speed": 10,
+						"loop": true
+					}
+				}
 			},
 			"Snow": {
-				"source": "SnowNightStars.png",
+				"source": "NightStars.png",
 				"properties": {"sky_scroll_speed": 0},
-				"animations": {"default": {
-					"frames": [[0, 0, 512, 512], [512, 0, 512, 512]],
-					"speed": 5.0,
-					"loop": true
-				}}
+				"animations": {
+					"default": {
+						"frames": [
+							[0, 0, 256, 256],
+							[256, 0, 256, 256],
+							[512, 0, 256, 256],
+							[768, 0, 256, 256],
+							[1024, 0, 256, 256],
+							[1280, 0, 256, 256],
+							[1536, 0, 256, 256]
+						],
+						"speed": 10,
+						"loop": true
+					}
+				}
 			}
 		}
 	}
