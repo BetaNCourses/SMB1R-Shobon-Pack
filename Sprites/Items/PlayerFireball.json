@@ -1,16 +1,22 @@
 {
-	"animations": {
-		"default": {
-			"frames": [[0, 0, 8, 8]],
-			"speed": 1.0,
-			"loop": false
-		}
-	},
+	"properties": {"can_rotate": true},
 	"variations": {
-		"default": {
-			"config:OGfireballs": {
-				"On": {"source": "Items.png", "rect": [84, 20, 8, 8]},
-				"Off": {"source": "Items.png", "rect": [68, 20, 8, 8]}
+		"config:Ball Style": {
+			"SMB1": {
+				"choices": [
+					{
+						"source": "Fireball.png",
+						"rect": [8, 0, 8, 8]
+					},
+					{
+						"source": "Fireball.png",
+						"rect": [16, 0, 8, 8]
+					}
+				]
+			},
+			"Circle": {
+				"source": "Fireball.png",
+				"rect": [0, 0, 8, 8]
 			}
 		}
 	}

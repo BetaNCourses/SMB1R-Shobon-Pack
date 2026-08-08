@@ -1,10 +1,1 @@
-{
-	"variations": {
-		"default": {
-			"config:RetroItems": {
-				"On": {"source": "PoisonMushroomRetro.png", "rect": [64, 0, 16, 16]},
-				"Off": {"source": "PoisonMushroom.png", "rect": [32, 0, 16, 16]}
-			}
-		}
-	}
-}
+{"variations": {"source": "PoisonMushroom.png"}}

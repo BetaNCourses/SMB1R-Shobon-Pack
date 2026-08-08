@@ -1,4 +1,5 @@
 {
+	"properties": {"can_spawn_particles": true},
 	"animations": {
 		"Collected": {
 			"frames": [
@@ -63,10 +64,10 @@
 	},
 	"variations": {
 		"default": {
-			"source": "Items.png",
+			"source": "RedCoin.png",
 			"rect": [
 				0.0,
-				64.0,
+				0.0,
 				64.0,
 				32.0
 			]

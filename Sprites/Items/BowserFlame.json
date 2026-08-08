@@ -2,29 +2,23 @@
 	"animations": {
 		"default": {
 			"frames": [
-				[
-					0,
-					0,
-					24,
-					16
-				],
-				[
-					24,
-					0,
-					24,
-					16
-				]
+				[0, 0, 24, 16],
+				[24, 0, 24, 16]
 			],
-			"speed": 15,
+			"speed": 5,
 			"loop": true
 		}
 	},
 	"variations": {
-		"default": {
-			"config:OGfireballs": {
-				"On": {"source": "Items.png", "rect": [128, 80, 48, 16]},
-				"Off": {"source": "Items.png", "rect": [176, 80, 48, 16]}
+		"choices": [
+			{
+				"source": "BowserFlame.png",
+				"rect": [0, 0, 48, 16]
+			},
+			{
+				"source": "BowserFlame.png",
+				"rect": [48, 0, 48, 16]
 			}
-		}
+		]
 	}
 }
