@@ -1,21 +1,35 @@
 {
 	"options": {
-		"RetroItems": "Off",
-		"OGfireballs": "Off",
-		"ShobonBranding": "Off"
+		"Ball Style": "Circle",
+		"Power-Ups Style": "SMB. (Retro)",
+		"Campaigns": "Shobon"
 	},
 	"value_keys": {
-		"RetroItems": [
-			"On",
-			"Off"
+		"Ball Style": [
+			"Circles",
+			"SMB."
 		],
-		"OGfireballs": [
-			"On",
-			"Off"
+		"Power-Ups Style": [
+			"SNA (OG)",
+			"SMB. (Classic)"
 		],
-		"ShobonBranding": [
-			"On",
-			"Off"
+		"Campaigns": [
+			"Mario",
+			"Shobon"
+		]
+	},
+	"option_descs": {
+		"Ball Style": [
+			"Fireballs look like orange circles, like in the original shobon no action.",
+			"Fireballs look like actual fireballs, like in SMB."
+		],
+		"Power-Ups Style": [
+			"Power-Ups look like their original appearence in shobon no action.",
+			"Power-Ups have a classic appearence, like in SMB."
+		],
+		"Campaigns": [
+			"Campaign icons are just like their original counterparts.",
+			"Campaign icons get taken by shobon."
 		]
 	}
 }
