@@ -1,11 +1,19 @@
 {
 	"properties": {
+		"can_rotate": true,
 		"play_sfx": false
 	},
-	"variations": {
+	"animations": {
 		"default": {
-			"source": "Items.png",
-			"rect": [192, 96, 16, 16]
+			"frames": [[0, 0, 16, 16]],
+			"speed": 5,
+			"loop": true
+		},
+		"Hold": {
+			"frames": [],
+			"speed": 0,
+			"loop": true
 		}
-	}
+	},
+	"variations": {"source": "Hammer.png"}
 }
