@@ -7,17 +7,17 @@
 				"CAN_BE_WALL_EJECTED": true
 			},
 			"Small": {
-				"COLLISION_SIZE": [12, 16],
-				"CROUCH_COLLISION_SIZE": [12, 13],
-				"CAN_BREAK_BRICKS": true
+				"COLLISION_SIZE": [12, 17],
+				"CROUCH_COLLISION_SIZE": [12, 14],
+				"CAN_BREAK_BRICKS": true,
 			},
 			"Big": {
-				"COLLISION_SIZE": [12, 16],
-				"CROUCH_COLLISION_SIZE": [12, 13]
+				"COLLISION_SIZE": [14, 24],
+				"CROUCH_COLLISION_SIZE": [14, 17],
 			},
 			"Fire": {
-				"COLLISION_SIZE": [12, 16],
-				"CROUCH_COLLISION_SIZE": [12, 13]
+				"COLLISION_SIZE": [14, 24],
+				"CROUCH_COLLISION_SIZE": [14, 17],
 			}
 		},
 		"CLASSIC_PARAMETERS": {
@@ -27,17 +27,17 @@
 				"LOCK_AIR_SPEED": false
 			},
 			"Small": {
-				"COLLISION_SIZE": [12, 16],
-				"CROUCH_COLLISION_SIZE": [12, 13],
-				"CAN_BREAK_BRICKS": true
+				"COLLISION_SIZE": [12, 17],
+				"CROUCH_COLLISION_SIZE": [12, 14],
+				"CAN_BREAK_BRICKS": true,
 			},
 			"Big": {
-				"COLLISION_SIZE": [12, 16],
-				"CROUCH_COLLISION_SIZE": [12, 13]
+				"COLLISION_SIZE": [14, 24],
+				"CROUCH_COLLISION_SIZE": [14, 17],
 			},
 			"Fire": {
-				"COLLISION_SIZE": [12, 16],
-				"CROUCH_COLLISION_SIZE": [12, 13]
+				"COLLISION_SIZE": [14, 24],
+				"CROUCH_COLLISION_SIZE": [14, 17],
 			}
 		},
 		"ENDING_PARAMETERS": {
