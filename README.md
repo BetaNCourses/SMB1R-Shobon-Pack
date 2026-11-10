@@ -6,4 +6,4 @@ This pack attempts to remake most of the assets that fits in the style of Chiku'
 >Credits:
 >* literally doing everything - BetaNCourses
 >* literally doing the rest of everything - JPyi64
->* Colorblind Mode Extra 'n other stuff - Kenai Patekoski Sotto (Kei-Na-ee)
+>* Colorblind Mode Extra 'n extra help - Kenai Patekoski Sotto (Kei-Na-ee)
